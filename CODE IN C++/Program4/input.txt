@@ -1,0 +1,17 @@
+4
+John McSnaug
+14.5
+36.47
+29.76
+Jane Doe
+19.25
+40.00
+38.46
+California McMcSnick
+17.50
+26.90
+35.75
+Jill Flow
+12.00
+32.00
+39.50

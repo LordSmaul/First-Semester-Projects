@@ -1,0 +1,10 @@
+The '*' symbol is the dereferencing operator. It is also the indirection operator.
+The '&' symbol means "address of" and is called the address operator.
+The name of an array, without any brackets acts as a pointer to the starting address of the array.
+A pointer variable can hold the memory address of a variable.
+The statement "cout << ptr;" will print an address.
+The statement "cout << *ptr;" will print 3.75.
+The statement "cout << &pay;" will print an address.
+The statement "cout << pay;" will print 3.75.
+Yes. ptr = &another_pay.
+Not really; ptr references a float variable, not an integer. You could change "ptr" to hold an int value, which would work.
