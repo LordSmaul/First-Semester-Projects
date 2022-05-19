@@ -15,7 +15,7 @@ struct Student
     // Tech email of a student
     // First Character of the first name followed by
     // the entire part of the last name and then followed
-    // by @tntech.edu
+    // by @gmail.com
     string techEmail; 
     // Quiz marks obtained by each student
     double quizMarks;
