@@ -2,7 +2,7 @@
 
 This folder contains all of the coding labs and assignments from my first semester in an introductory Computer Science course at my college. I decided it would be a good idea to post all the files online to preserve them in case I get a new computer.
 
-There are two types of assignments here: Labs and Projects. The labs were given weekly to help the students practice what they had learned in the lectures. The Projects were assigned every couple of weeks; they were generally more comprehensive in their scope and supposed to be harder than the labs, and we were given more time to complete them.
+There are two types of assignments here: Labs and Projects. The labs were given weekly to help the students practice what they had learned in the lectures. The projects were assigned every couple of weeks; they were generally more comprehensive in their scope and supposed to be harder than the labs, and we were given more time to complete them.
 
 All projects have been edited from their original forms: I have taken the liberty of removing personal information (since this folder is public) and reduced the assignments to the source files, executables, and any text files that the programs use.
 
@@ -57,13 +57,13 @@ Program 2: Practice with loops, conditionals, separate files, and header files
 
 Program 3: Intro to file reading
  - Program reads in numbers from a file into an array, then performs a series of operations:
- -  Prints the sum of all numbers in the file
- -  Counts number of even/odd numbers
- -  Counts the number of positive/negative numbers
- -  Prints the sums of the mirror index pairs of the array
- -  Displays the array forwards and backwards
- -  Finds the max number, min number, mean, and median of the array
+ - (1) Prints the sum of all numbers in the file
+ - (2) Counts/prints number of even/odd numbers
+ - (3) Counts/prints the number of positive/negative numbers
+ - (4) Prints the sums of the mirror index pairs of the array
+ - (5) Displays the array forwards and backwards
+ - (6) Finds the max number, min number, mean, and median of the array
 I also wrote a separate function that populates a .txt file with numbers to make testing the program easier and more randomized 
 
 Program 4: File reading with structures
--   Program creates a pointer array of user-defined structures of students; each structure contains their name, a generated email, and some test scores. The             program then generates a letter grade and prints out the information of the students who scored best on each test and the student who scored best overall
+- Program creates a pointer array of user-defined structures of students; each structure contains their name, a generated email, and some test scores. The program then generates a letter grade and prints out the information of the students who scored best on each test and the student who scored best overall
