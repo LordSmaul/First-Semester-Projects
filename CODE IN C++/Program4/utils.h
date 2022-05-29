@@ -9,7 +9,7 @@
  * Student Name: John Doe
  * Email: JDoe@gmail.com
  * -> The email will have the first letter and the entire
- * last name as the username following with @tntech.edu
+ * last name as the username following with @gmail.com
  * The function takes the structure variable pointer array
  * as an arugment and the total number of students.
  */
