@@ -32,28 +32,28 @@ Lab 5: More complex uses of loops and other random useful tidbits within main()
 -   (b) 'while' and 'do-while' loops with input validation from user
 -   (c) Getting the average of the consecutive numbers between two user-input numbers using 'while' and 'for' loops
 
-Lab 6: Practice with functions in separate files, intro to header files, basic multi-parameter geometric funtions
+Lab 6: Practice with functions in separate files, intro to header files, basic multi-parameter geometric funtions from user input
 
 Lab 7: Similar to lab 6, with different geometric functions, and intro to variables passed by reference
 
-Lab 8: Introduction to Arrays; documenting paranormal findings and determing highest number found on a given day
+Lab 8: Introduction to Arrays; documenting paranormal findings and determing highest number found on a given day from user input
 
 Lab 9: Introduction to pointers, and some exception handling
 -   (b) Execption handling if user inputs wrong variable type
 -   (c) Basic mathematics with pointers
 
 Lab 10: Validating a password for certain conditions based on user input
-- user password must contain at least one upper- and lowercase letter, and number, a punctuation character, and no spaces
+- user password must contain at least one uppercase and lowercase letter, a number, a punctuation character, and no spaces
 
 Lab 11: Practice with pointer arrays; getting/displaying pollution data from user input
 
-Lab 12: Intro to structures; building an array of eSports player structures from user input and displaying their times
+Lab 12: Intro to structures; building an array of eSports player structures from user input and displaying their game/time information
 
 Program 1: Practice with basic user input, arithmetic operators, and random generation
  - Program gives the user two randomly generated numbers and asks them to find the solution to the arithmetic operator of their choice, then asks them if the          resulting number is positive/negative and even/odd, displaying correct messaging for all potential input types
 
 Program 2: Practice with loops, conditionals, separate files, and header files
- - Program asks the user for a number, then outputs: the sum from 1 to that number, the factorial of that number, a times table , and whether it's even/odd, prime,    and/or an Armstrong number
+ - Program asks the user for a number, then outputs: the sum from 1 to that number, the factorial of that number, a times table, whether the number is even/odd, whether or not the number is prime, and whether or not the number is an Armstrong number
 
 Program 3: Intro to file reading
  - Program reads in numbers from a file into an array, then performs a series of operations:
@@ -63,7 +63,7 @@ Program 3: Intro to file reading
  - (4) Prints the sums of the mirror index pairs of the array
  - (5) Displays the array forwards and backwards
  - (6) Finds the max number, min number, mean, and median of the array
-I also wrote a separate function that populates a .txt file with numbers to make testing the program easier and more randomized 
+ - At my own leisure I also wrote a separate function that populates a .txt file with numbers to make testing the program easier and more randomized 
 
 Program 4: File reading with structures
-- Program creates a pointer array of user-defined structures of students; each structure contains their name, a generated email, and some test scores. The program then generates a letter grade and prints out the information of the students who scored best on each test and the student who scored best overall
+- Program creates a pointer array of user-defined structures for students; each student structure contains their name, a generated email, and some test scores. The program then generates a letter grade and prints out the information of the students who scored best on each test and the student who scored best overall
