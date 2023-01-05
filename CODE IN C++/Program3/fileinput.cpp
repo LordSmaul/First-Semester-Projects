@@ -1,5 +1,5 @@
 /*
-    This supplemantary function populates the input.txt file with a list of random numbers
+    This supplementary function populates the input.txt file with a list of random numbers
     The user inputs how many numbers they want and the largest possible number that the random operator can generate
     The random operator also randomly assigns the number as positive or negative
     This file was not part of the original assignment, but I added it to for fun
