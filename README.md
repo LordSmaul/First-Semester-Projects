@@ -32,22 +32,22 @@ Lab 5: More complex uses of loops and other random useful tidbits within main()
 -   (b) 'while' and 'do-while' loops with input validation from user
 -   (c) Getting the average of the consecutive numbers between two user-input numbers using 'while' and 'for' loops
 
-Lab 6: Practice with functions in separate files, intro to header files, basic multi-parameter geometric funtions from user input
+Lab 6: Practice with functions in separate files, intro to header files, basic multi-parameter geometric functions from user input
 
-Lab 7: Similar to lab 6, with different geometric functions, and intro to variables passed by reference
+Lab 7: Similar to lab 6, with different geometric functions, and intro to variables passed by reference.
 
-Lab 8: Introduction to Arrays; documenting paranormal findings and determing highest number found on a given day from user input
+Lab 8: Introduction to Arrays; documenting paranormal findings and determining highest number found on a given day from user input.
 
 Lab 9: Introduction to pointers, and some exception handling
--   (b) Execption handling if user inputs wrong variable type
+-   (b) Exception handling if user inputs wrong variable type
 -   (c) Basic mathematics with pointers
 
-Lab 10: Validating a password for certain conditions based on user input
+Lab 10: Validating a password for certain conditions based on user input.
 - user password must contain at least one uppercase and lowercase letter, a number, a punctuation character, and no spaces
 
-Lab 11: Practice with pointer arrays; getting/displaying pollution data from user input
+Lab 11: Practice with pointer arrays; getting/displaying pollution data from user input.
 
-Lab 12: Intro to structures; building an array of eSports player structures from user input and displaying their game/time information
+Lab 12: Intro to structures; building an array of eSports player structures from user input and displaying their game/time information.
 
 Program 1: Practice with basic user input, arithmetic operators, and random generation
  - Program gives the user two randomly generated numbers and asks them to find the solution to the arithmetic operator of their choice, then asks them if the          resulting number is positive/negative and even/odd, displaying correct messaging for all potential input types
@@ -66,4 +66,4 @@ Program 3: Intro to file reading
  - At my own leisure I also wrote a separate function that populates a .txt file with numbers to make testing the program easier and more randomized 
 
 Program 4: File reading with structures
-- Program creates a pointer array of user-defined structures for students; each student structure contains their name, a generated email, and some test scores. The program then generates a letter grade and prints out the information of the students who scored best on each test and the student who scored best overall
+- Program creates a pointer array of user-defined structures for students; each student structure contains their name, a generated email, and some test scores. The program then generates a letter grade and prints out the information of the students who scored best on each test and the student who scored best overall.
