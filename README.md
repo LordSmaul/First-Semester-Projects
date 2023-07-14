@@ -6,31 +6,33 @@ There are two types of assignments here: Labs and Projects. The labs were given 
 
 All projects have been edited from their original forms: I have taken the liberty of removing personal information (since this folder is public) and reduced the assignments to the source files, executables, and any text files that the programs use.
 
+___
+
 **Here's a quick rundown of the assignments and their goals:**
 
 Lab 1: Basic "Hello World!" program
 
 Lab 2: Basic user input and mathematics functions within main()
--   (a) calculating cost of hot wings 
--   (b) getting user input of groceries and printing it back w/ total cost 
--   (c) average test grade of 3 students
--   (d) calculating prison sentence of a dog who stole bones
+-   calculating cost of hot wings 
+-   getting user input of groceries and printing it back w/ total cost 
+-   average test grade of 3 students
+-   calculating prison sentence of a dog who stole bones
 
 Lab 3: Introduction of conditionals (logic, relational) and string processing within main()
--   (a) Finding the smallest number from user input
--   (b) Determining whether a user input year is a leap year
--   (c) Output coin change of a user based on a given user input dollar amount
--   (d) Setting a user password based on user input
+-   Finding the smallest number from user input
+-   Determining whether a user input year is a leap year
+-   Output coin change of a user based on a given user input dollar amount
+-   Setting a user password based on user input
 
 Lab 4: More practice with conditionals/switches, intro to 'while' loop within main()
--   (a) Using logical operators to determine student's graduation status
--   (b) Switch statement with letter grades
--   (c) While loop with user input
+-   Using logical operators to determine student's graduation status
+-   Switch statement with letter grades
+-   While loop with user input
 
 Lab 5: More complex uses of loops and other random useful tidbits within main()
--   (a) Gives user a nickname, using random number generation and ASCII decimal conversions
--   (b) 'while' and 'do-while' loops with input validation from user
--   (c) Getting the average of the consecutive numbers between two user-input numbers using 'while' and 'for' loops
+-   Gives user a nickname, using random number generation and ASCII decimal conversions
+-   'while' and 'do-while' loops with input validation from user
+-   Getting the average of the consecutive numbers between two user-input numbers using 'while' and 'for' loops
 
 Lab 6: Practice with functions in separate files, intro to header files, basic multi-parameter geometric functions from user input
 
@@ -39,8 +41,8 @@ Lab 7: Similar to lab 6, with different geometric functions, and intro to variab
 Lab 8: Introduction to Arrays; documenting paranormal findings and determining highest number found on a given day from user input.
 
 Lab 9: Introduction to pointers, and some exception handling
--   (b) Exception handling if user inputs wrong variable type
--   (c) Basic mathematics with pointers
+-   Exception handling if user inputs wrong variable type
+-   Basic mathematics with pointers
 
 Lab 10: Validating a password for certain conditions based on user input.
 - user password must contain at least one uppercase and lowercase letter, a number, a punctuation character, and no spaces
@@ -48,6 +50,10 @@ Lab 10: Validating a password for certain conditions based on user input.
 Lab 11: Practice with pointer arrays; getting/displaying pollution data from user input.
 
 Lab 12: Intro to structures; building an array of eSports player structures from user input and displaying their game/time information.
+
+___
+
+## Programming Assignments
 
 Program 1: Practice with basic user input, arithmetic operators, and random generation
  - Program gives the user two randomly generated numbers and asks them to find the solution to the arithmetic operator of their choice, then asks them if the          resulting number is positive/negative and even/odd, displaying correct messaging for all potential input types
